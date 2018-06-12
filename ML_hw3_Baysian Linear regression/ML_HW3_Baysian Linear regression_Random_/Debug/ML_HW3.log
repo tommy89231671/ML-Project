@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\tommy\desktop\ml_hw3\ml_hw3\baysian.h(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\tommy\desktop\ml_hw3\ml_hw3\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ML_HW3.vcxproj -> C:\Users\tommy\Desktop\ML_HW3\Debug\ML_HW3.exe
+  ML_HW3.vcxproj -> C:\Users\tommy\Desktop\ML_HW3\Debug\ML_HW3.pdb (Partial PDB)

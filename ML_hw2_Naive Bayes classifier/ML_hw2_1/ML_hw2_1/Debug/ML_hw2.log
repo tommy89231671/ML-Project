@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\tommy\desktop\106上\ml\mlhw2\ml_hw2_1\ml_hw2_1\test.h(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\tommy\desktop\106上\ml\mlhw2\ml_hw2_1\ml_hw2_1\test.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\tommy\desktop\106上\ml\mlhw2\ml_hw2_1\ml_hw2_1\test.h(41): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\tommy\desktop\106上\ml\mlhw2\ml_hw2_1\ml_hw2_1\test.h(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\tommy\desktop\106上\ml\mlhw2\ml_hw2_1\ml_hw2_1\test.h(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\tommy\desktop\106上\ml\mlhw2\ml_hw2_1\ml_hw2_1\test.h(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\tommy\desktop\106上\ml\mlhw2\ml_hw2_1\ml_hw2_1\test.h(182): warning C4018: '<': signed/unsigned mismatch
+  ML_hw2.vcxproj -> C:\Users\tommy\Desktop\106上\ML\MLhw2\ML_hw2_1\ML_hw2_1\Debug\ML_hw2.exe
+  ML_hw2.vcxproj -> C:\Users\tommy\Desktop\106上\ML\MLhw2\ML_hw2_1\ML_hw2_1\Debug\ML_hw2.pdb (Partial PDB)
