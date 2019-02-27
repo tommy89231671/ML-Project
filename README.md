@@ -11,3 +11,5 @@ HW4:Kmeans+Kernel Kmeans+Specturl Clustering
 HW5:SVM+PCA
 
 HW6:SNE+tSNE
+
+All the dataset is using MNIST
